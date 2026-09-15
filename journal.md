@@ -12,3 +12,11 @@ Firstly I have started adding foodprints for each part in schematics and then up
 ## images:
 
 -------
+# date:15/9
+# time spent:1.5hr
+## description:
+Now I started with the customization of my macropad rather than copying everything from the guide I added a oled of 0.91inches to my design and also It was difficult to think what can we add and also there was no proper guide for 0.91inches screen so I researched it and found its footprint and connected to my board and also I added another switch our board now I can say that our schematics is completed and we can move to the next part!!
+Now I completed the pcb editor at last arranged it well and I was confused with the red and blue wires but figured it out and also I have customized with the logos of off-track they looks pretty(❁´◡`❁) and thanks for emma for this cute logos and I have done it by adding it to the image converter it was super time taking but completed at last and also I fixed few errors by inspecting the board.the 3d view looks way coole
+## images:
+
+-------
