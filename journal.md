@@ -5,3 +5,10 @@ this was my first hardware project,I started by installing kicad and setupping t
 ## images:
 
 -------
+# date:15/9
+# time spent:0.75hr
+## description:
+Firstly I have started adding foodprints for each part in schematics and then updated it and also the schematics was done and then I went to the pcb editor and in which I have found all the the blueprint of it ,and in reference I was learning from the blueprint’s guide in which I got confused in the part of the gold pins the images show the gold pins but my editor was showing red ones and also the xiao and the switch one was overlapping in the guide which led to more confusion ,then I read the guide more than 3 times and searched internet why it is happening then I understood that the gold pins were the red ones ; ) and the connection of wirres was also confusing but I figured out which I should connect for which part and then at last connected the wires everything the pcb was cool in the 3d viewer now I think I will edit the schematics and the pcb to much cooler design so need to change the scchematics again with the pcb again with more number of keys
+## images:
+
+-------
