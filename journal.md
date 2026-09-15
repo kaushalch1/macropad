@@ -20,3 +20,10 @@ Now I completed the pcb editor at last arranged it well and I was confused with 
 ## images:
 
 -------
+# date:15/9
+# time spent:0.75hr
+## description:
+now I have iniatilzed one project in fusion 360 it was very confusing and it was my first time making a cad case so super confused and I drew a 2 rectangles by measuring the dimensions in pcb and making it in the cad and then I was super confused with the holes which weren’t working so I kept circles it is pretty difficult to control an object in fusion 360 and then arranged them in 4 corners now I should do the 3d part
+## images:
+
+-------
