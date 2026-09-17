@@ -27,3 +27,10 @@ now I have iniatilzed one project in fusion 360 it was very confusing and it was
 ## images:
 
 -------
+# date:15/9
+# time spent:1.5hr
+## description:
+I just got reviewed project and I forgot to draw the top panel ngl I have left it because it was too difficult at first I thought cad sucks and then started today with a fresh mind to complete the top panel and then slowly completed the outlines and then when I extruded Ithe whole keys were also increasing then after doing a research I understood that it was combined so I got an idea instead of working on that makw another sketch of the keys by drawing on it and exruding it again and then cutiing the new sketch and then it worked and then I added more custom designs for it like some text in it and after seeing the time it took me around 1.75hrs the most of the time I was figuring out the 4 keys combined part but now I feel cad is interesting now and as iwas a begineer I am now figuring it works 
+## images:
+
+-------
