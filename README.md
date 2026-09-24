@@ -24,12 +24,17 @@ SEED XIAO board,
 1 oled 0.91" screen
 
 ## Schematics
-<img width="1090" height="581" alt="image" src="https://github.com/user-attachments/assets/419692f2-1b9c-411c-a277-6cbec6a9f59c" />
+<img width="1090" height="613" alt="image" src="https://github.com/user-attachments/assets/547f0897-1aca-493a-a5e1-c4213d41e179" />
+
 ## PCB
-<img width="1090" height="575" alt="image" src="https://github.com/user-attachments/assets/dac47f6a-dda4-4904-8bbb-1f8167e4e695" />
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/eefc5c8c-5225-470e-9c92-dd438db306b8" />
+
 ## 3D view
-<img width="1090" height="613" alt="image" src="https://github.com/user-attachments/assets/e3909e35-7232-4897-90ae-71d6370ae757" />
+<img width="1090" height="575" alt="image" src="https://github.com/user-attachments/assets/2ba2b950-1caf-4460-bb1a-a774d57fde46" />
+
 ## cad photo
-<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/e418096f-9058-41b4-9ef6-29183f072e56" />
+<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/6df4c16c-3d43-4ba3-a4eb-62b3e2c1c258" />
+
 ## travel photo
-<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/de29465b-9f47-4fcd-a96f-d174ecbf73cd" />
+<img width="1090" height="581" alt="image" src="https://github.com/user-attachments/assets/d0d3755e-e869-4b4a-8544-92514a6b10cc" />
+
